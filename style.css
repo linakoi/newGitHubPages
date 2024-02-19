@@ -40,7 +40,7 @@ a {
 }
 
 .hero{
-    background-image:url("/img/win14-1024x640.jpg");
+    background-image:url("/img/back.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -55,6 +55,6 @@ a {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(100,100,255,0.2);
+    background-color: rgba(10,10,10,0.5);
     z-index: -1;
 }
